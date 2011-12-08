@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/artemis-scac/!svn/ver/2/trunk
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/artemis-scac/!svn/ver/4/trunk/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/artemis-scac/!svn/ver/4/trunk/.classpath
+END
